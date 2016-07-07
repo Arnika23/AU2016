@@ -51,6 +51,7 @@ public class javaclass implements javainterface {
 		case 4:
 			try {
 				System.out.println(obj.div(a, b));
+				
 			} catch (ArithmeticException e) {
 				System.out.println("Can't divide by 0");
 			}
