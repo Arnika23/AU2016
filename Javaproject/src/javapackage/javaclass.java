@@ -26,6 +26,7 @@ public class javaclass implements javainterface {
 	public Integer div(Integer a, Integer b) {
 		// TODO Auto-generated method stub
 		return (a / b);
+		//printfabcsfh
 	}
 
 	public static void main(String[] args) {
